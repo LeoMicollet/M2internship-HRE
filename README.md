@@ -1,2 +1,1 @@
-# MSVinternship-HRE
-Hawkes in Random Environment
+# Hawkes in Random Environment
